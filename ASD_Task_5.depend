@@ -7,3 +7,23 @@
 	<windows.h>
 	<iostream>
 
+1519489327 source:d:\strukdat\asd_task_5\list.cpp
+	"list.h"
+
+1519469010 d:\strukdat\asd_task_5\list.h
+	<string>
+	<windows.h>
+	<iostream>
+
+1519490253 source:d:\strukdat\asd_task_5\main.cpp
+	"player.h"
+	"list.h"
+	<conio.h>
+
+1519467253 d:\strukdat\asd_task_5\player.h
+	"list.h"
+
+1519490347 source:d:\strukdat\asd_task_5\player.cpp
+	"player.h"
+	<ctime>
+
